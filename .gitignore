@@ -4,3 +4,5 @@ composer.lock
 mix-manifest.json
 .idea
 /.claude
+/CLAUDE.md
+/solo.yml
